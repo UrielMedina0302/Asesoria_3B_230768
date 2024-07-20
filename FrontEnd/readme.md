@@ -15,5 +15,5 @@ En esta sección se encontrarán los archivos del estilo de la aplicación, incl
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
 |Tania Ibarra Salgado|[@ibarra-tania](https://github.com/ibarra-tania)|Líder de FrontEnd|✅Muy buen Trabajo.|
-|Uriel A. Medina Torres|[@UrielMedina0302](https://github.com/UrielMedina0302)|Líder de Desarrollo Documentación|❌No ha revisado cambios.|
-|Esther González Peralta|[@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero)|Líder de Desarrollo BackEnd|❌No ha revisado cambios.|
+|Uriel A. Medina Torres|[@UrielMedina0302](https://github.com/UrielMedina0302)|Desarrollador de FrontEnd|❌No ha revisado cambios.|
+|Esther González Peralta|[@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero)|Desarrollador de FrontEnd|❌No ha revisado cambios.|
