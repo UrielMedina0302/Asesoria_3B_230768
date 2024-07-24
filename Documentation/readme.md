@@ -1,4 +1,4 @@
-# Documentation  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+# Documentation  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 En esta sección se ubicaran los archivos que respalda el análisis previo al diseño de la aplicación
 
 ## ESTRUCTURA DE ARCHIVOS
